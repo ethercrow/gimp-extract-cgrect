@@ -1,0 +1,9 @@
+
+Installation
+============
+
+ 1. Get pyperclip (http://coffeeghost.net/src/pyperclip.py)
+ 2. Put pyperclip.py and cgrect.py into /your/gimp/config/directory/plug-ins
+    ($HOME/.gimp-2.8/plug-ins/ on Linux at the moment of writing).
+ 3. Now your gimp has "Tools -> Copy CGRect to clipboard" and for @2x designs
+    "Tools -> Copy CGRect to clipboard (halfsize)".
